@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 import json
 
-TOKEN = 'MTI1MTIzODAyNDI4MTU4NzgyNA.Gxx5dR.TbmIXdTfpX6PJE1CnlTpJOaQt6WatvIS7U6Dhs'
+TOKEN = ''
 
 dlya_kanalov = {
     "948948056706015262": [[1,2],[2,1],[3,4],[4,3],[5,6],[7,8],[7],[8],[9],[10],[11],[12],[13],[14],[15],[16],[17],[18],[19],[20]],
